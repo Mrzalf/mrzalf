@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rizaldy Alifiansyah</h1>
 <h3 align="center">A passionate Frontend Developer, UI UX, and Project Manager</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayu1s&label=Profile%20views&color=129e00&style=plastic" alt="bayu1s" /> </p>
+<img align="right" alt="Coding" width="250" height="400" src="mrzalf.png">
+
 - 👨‍💻 All of my projects are available at [http://mrzalf-portfolio.netlify.app](http://mrzalf-portfolio.netlify.app)
 
 - 💬 Ask me about **Programming, Designing, and Project Management**
